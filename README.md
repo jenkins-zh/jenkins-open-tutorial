@@ -1,4 +1,7 @@
-# jenkins-open-tutorial
+![GitHub contributors](https://img.shields.io/github/contributors/jenkins-zh/jenkins-open-tutorial)
+[![HitCount](http://hits.dwyl.com/jenkins-zh/jenkins-open-tutorial.svg)](http://hits.dwyl.com/jenkins-zh/jenkins-open-tutorial)
+
+# Jenkins Open Tutorial
 This is an open tutorial for Jenkins
 
 # Video
@@ -8,5 +11,4 @@ We use [openshot](https://github.com/OpenShot/openshot-qt) as the tool for video
 https://inkscape.org/
 
 # Screen Record
-https://www.nchsoftware.com/capture/index.html
-
+[喵影工厂](https://miao.wondershare.cn/filmora-video-editor-ad.html)
