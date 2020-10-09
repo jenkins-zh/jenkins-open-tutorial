@@ -14,12 +14,12 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Backup to gitee
-      uses: jenkins-zh/git-backup-actions@master
+      uses: jenkins-zh/git-backup-actions@v0.0.4
       env:
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
         TARGET_GIT: "git@gitee.com:jenkins-zh/jenkins-open-tutorial.git"
     - name: Backup to CodeChina
-      uses: jenkins-zh/git-backup-actions@master
+      uses: jenkins-zh/git-backup-actions@v0.0.4
       env:
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
         TARGET_GIT: "git@codechina.csdn.net:jenkins-zh/jenkins-open-tutorial.git"
