@@ -4,14 +4,23 @@ on:
   push:
     branches:
     - master
+  pull_request:
+    branches: 
+    - master
 
 jobs:
   git-repo-backup:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: backup
+    - name: Backup to gitee
       uses: jenkins-zh/git-backup-actions@v0.0.3
       env:
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
         TARGET_GIT: "git@gitee.com:jenkins-zh/jenkins-open-tutorial.git"
+    - name: Backup to CodeChina
+      uses: jenkins-zh/git-backup-actions@master
+      env:
+        GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
+        TARGET_GIT: "git@codechina.csdn.net:jenkins-zh/jenkins-open-tutorial.git"
+
