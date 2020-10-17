@@ -1155,7 +1155,7 @@
      "major_brand": "isom",
      "minor_version": "512"
     },
-    "path": "../end-credit-music.mp4",
+    "path": "../music/end-credit-music.mp4",
     "pixel_format": 0,
     "pixel_ratio": {
      "den": 1,
@@ -2024,7 +2024,7 @@
      "major_brand": "qt",
      "minor_version": "512"
     },
-    "path": "../../../../../Downloads/Jenkins Community/Tutorial Videos/Jenkins系列视频～docker环境下安装.mp4",
+    "path": "../videos/Jenkins系列视频～docker环境下安装.mp4",
     "pixel_format": 0,
     "pixel_ratio": {
      "den": 1,
@@ -3219,7 +3219,7 @@
     "major_brand": "isom",
     "minor_version": "512"
    },
-   "path": "../end-credit-music.mp4",
+   "path": "../music/end-credit-music.mp4",
    "pixel_format": 0,
    "pixel_ratio": {
     "den": 1,
@@ -3322,7 +3322,7 @@
     "major_brand": "qt",
     "minor_version": "512"
    },
-   "path": "../../../../../Downloads/Jenkins Community/Tutorial Videos/Jenkins系列视频～docker环境下安装.mp4",
+   "path": "../videos/Jenkins系列视频～docker环境下安装.mp4",
    "pixel_format": 0,
    "pixel_ratio": {
     "den": 1,
