@@ -7,6 +7,12 @@ This is an open tutorial for Jenkins
 # Video
 We use [openshot](https://github.com/OpenShot/openshot-qt) as the tool for video clip.
 
+Output format:
+
+| | |
+|---|---|
+| HD 1080p | |
+
 # Plugins for openshot
 https://inkscape.org/
 
