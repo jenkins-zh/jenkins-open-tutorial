@@ -3088,7 +3088,7 @@
  ],
  "effects": [],
  "export_path": "/Users/rick/Downloads/Jenkins Community/Tutorial Videos",
- "import_path": "/Users/rick/Downloads/Jenkins Community/Tutorial Videos",
+ "import_path": "/Users/rick/Workspace/GitHub/jenkins-zh/jenkins-open-tutorial/openshot",
  "files": [
   {
    "acodec": "",
@@ -3449,7 +3449,7 @@
   }
  ],
  "duration": 1175.7333333333333,
- "scale": 5,
+ "scale": 10,
  "tick_pixels": 100,
  "playhead_position": 0,
  "profile": "HD 720p 30 fps",
