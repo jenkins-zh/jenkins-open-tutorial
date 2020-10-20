@@ -9,9 +9,14 @@ We use [openshot](https://github.com/OpenShot/openshot-qt) as the tool for video
 
 Output format:
 
-| | |
+| Item | Description |
 |---|---|
-| HD 1080p | |
+| Target | mp4(h.264) |
+| Video Profile | HD 1080p 30fps |
+
+Header video: 2s
+
+Tail video: 8s + 2s
 
 # Plugins for openshot
 https://inkscape.org/
