@@ -35,3 +35,5 @@ There are [many different format](https://en.wikipedia.org/wiki/Subtitles#Subtit
 
 # Screen Record
 [喵影工厂](https://miao.wondershare.cn/filmora-video-editor-ad.html)
+
+[OBS Studio](https://github.com/obsproject/obs-studio/)
