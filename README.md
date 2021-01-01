@@ -21,6 +21,13 @@ Tail video: 8s + 2s
 ## Plugins for openshot
 In order to have the advanced editor of title, please install [inkscape](https://inkscape.org/).
 
+### For Ubuntu users
+```
+sudo add-apt-repository ppa:inkscape.dev/stable
+sudo apt update
+sudo apt install inkscape
+```
+
 # Subtitle
 Please submit the subtitle file into [this directory](openshot). These subtitle files should keep the same name with openshot project files. For example, `xxx.osp` and `xxx.srt` have the same prefix.
 
