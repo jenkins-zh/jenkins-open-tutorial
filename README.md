@@ -37,3 +37,6 @@ There are [many different format](https://en.wikipedia.org/wiki/Subtitles#Subtit
 [喵影工厂](https://miao.wondershare.cn/filmora-video-editor-ad.html)
 
 [OBS Studio](https://github.com/obsproject/obs-studio/)
+
+# Noise reduction
+You can use [Audacity](https://github.com/audacity/audacity) to reduce the noise from the background or bad quality of mic.
